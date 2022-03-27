@@ -1,0 +1,46 @@
+[17:31:49.4741657] [Trace] App::OnStartup
+[17:31:49.4761472] [Trace] FancyZonesEditorIO::ReadFile
+[17:31:49.6280712] [Trace] FancyZonesEditorIO::ParseZoneSettings
+[17:31:49.6287269] [Trace] FancyZonesEditorIO::ReadFile
+[17:31:49.6680895] [Trace] FancyZonesEditorIO::ParseZoneSettings
+[17:31:49.6693236] [Trace] FancyZonesEditorIO::ParseZoneSettings
+[17:31:49.6706297] [Trace] FancyZonesEditorIO::ParseZoneSettings
+[17:31:49.6713284] [Trace] FancyZonesEditorIO::ParseZoneSettings
+[17:31:49.6736378] [Trace] Overlay::Show
+[17:31:49.7387386] [Trace] Overlay::Show
+[17:31:49.9897600] [Info] LayoutPreview::OnLoaded
+    Loaded Priority Grid
+[17:31:50.6424073] [Info] LayoutPreview::OnLoaded
+    Loaded No layout
+[17:31:50.6430006] [Info] LayoutPreview::OnLoaded
+    Loaded Focus
+[17:31:50.6435631] [Info] LayoutPreview::OnLoaded
+    Loaded Columns
+[17:31:50.6442322] [Info] LayoutPreview::OnLoaded
+    Loaded Rows
+[17:31:50.6447705] [Info] LayoutPreview::OnLoaded
+    Loaded Grid
+[17:31:50.6452717] [Info] LayoutPreview::OnLoaded
+    Loaded Priority Grid
+[17:32:30.1219048] [Trace] MainWindow::Apply
+[17:32:30.1303466] [Trace] MainWindow::Apply
+[17:32:31.0887478] [Trace] <EditLayout_Click>d__29::MoveNext
+[17:32:31.2031363] [Info] LayoutPreview::OnLoaded
+    Loaded Priority Grid
+[17:32:31.2039887] [Info] LayoutPreview::OnLoaded
+    Loaded Priority Grid
+[17:32:37.8640965] [Trace] MainWindow::EditLayoutDialog_PrimaryButtonClick
+[17:32:37.8646169] [Trace] MainWindow::EditLayoutDialog_PrimaryButtonClick
+[17:32:40.1277815] [Trace] <EditLayout_Click>d__29::MoveNext
+[17:32:40.1509485] [Info] LayoutPreview::OnLoaded
+    Loaded Grid
+[17:32:41.9361011] [Trace] MainWindow::EditLayoutDialog_PrimaryButtonClick
+[17:32:41.9364287] [Trace] MainWindow::EditLayoutDialog_PrimaryButtonClick
+[17:32:46.4171462] [Trace] MainWindow::Apply
+[17:32:46.4198698] [Trace] MainWindow::Apply
+[17:32:48.0565980] [Trace] MainWindow::OnClosing
+[17:32:48.0569401] [Trace] MainWindow::OnClosing
+[17:32:48.1218219] [Info] App::Dispose
+    FancyZones Editor disposed
+[17:32:48.1222409] [Info] App::App_WaitExit
+    Exit event triggered

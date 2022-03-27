@@ -1,0 +1,53 @@
+[2022-03-21 19:15:25.796949] [p-19592] [t-14764] [info] fancyzones logger is initialized
+[2022-03-21 19:15:25.838622] [p-19592] [t-14136] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2022-03-21 19:15:25.839833] [p-19592] [t-14764] [trace] FancyZonesSettings::LoadSettings Enter
+[2022-03-21 19:15:25.839883] [p-19592] [t-5500] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2022-03-21 19:15:25.840860] [p-19592] [t-14764] [trace] FancyZonesSettings::LoadSettings Exit
+[2022-03-21 19:15:25.869552] [p-19592] [t-14136] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2022-03-21 19:15:25.869556] [p-19592] [t-5500] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2022-03-21 19:15:25.869629] [p-19592] [t-5500] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2022-03-21 19:15:25.869743] [p-19592] [t-14764] [trace] FancyZones::OnDisplayChange Enter
+[2022-03-21 19:15:25.869780] [p-19592] [t-14764] [trace]   - FancyZones::RegisterVirtualDesktopUpdates Enter
+[2022-03-21 19:15:25.869803] [p-19592] [t-14764] [trace]     - AppZoneHistory::SyncVirtualDesktops Enter
+[2022-03-21 19:15:25.869833] [p-19592] [t-14764] [trace]     - AppZoneHistory::SyncVirtualDesktops Exit
+[2022-03-21 19:15:25.869834] [p-19592] [t-14764] [trace]     - AppliedLayouts::SyncVirtualDesktops Enter
+[2022-03-21 19:15:25.869876] [p-19592] [t-14764] [trace]     - AppliedLayouts::SyncVirtualDesktops Exit
+[2022-03-21 19:15:25.869878] [p-19592] [t-14764] [trace]   - FancyZones::RegisterVirtualDesktopUpdates Exit
+[2022-03-21 19:15:25.870294] [p-19592] [t-14764] [trace]   - FancyZones::AddWorkArea Enter
+[2022-03-21 19:15:25.870343] [p-19592] [t-14764] [debug] Initialize layout on the virtual desktop {F8A150BD-6115-467C-9BD0-ECC74A779247}
+[2022-03-21 19:15:25.870370] [p-19592] [t-14764] [trace]     - `anonymous-namespace'::WindowPool::ExtractWindow Enter
+[2022-03-21 19:15:25.870371] [p-19592] [t-14764] [trace]     - `anonymous-namespace'::WindowPool::ExtractWindow Exit
+[2022-03-21 19:15:25.870710] [p-19592] [t-14764] [info] Creating new ZonesOverlay window, hWnd = 0x270776
+[2022-03-21 19:15:25.958396] [p-19592] [t-14764] [trace]     - AppliedLayouts::SaveData Enter
+[2022-03-21 19:15:25.959539] [p-19592] [t-14764] [trace]     - AppliedLayouts::SaveData Exit
+[2022-03-21 19:15:25.959558] [p-19592] [t-14764] [trace]   - FancyZones::AddWorkArea Exit
+[2022-03-21 19:15:25.959568] [p-19592] [t-14764] [trace] FancyZones::OnDisplayChange Exit
+[2022-03-21 19:15:26.857844] [p-19592] [t-14764] [trace] ZonesOverlay::DrawActiveZoneSet Enter
+[2022-03-21 19:15:26.857854] [p-19592] [t-14764] [trace] ZonesOverlay::DrawActiveZoneSet Exit
+[2022-03-21 19:15:34.096728] [p-19592] [t-14764] [trace] App zone history is empty for the processing window on a current virtual desktop
+[2022-03-21 19:15:34.096833] [p-19592] [t-5500] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2022-03-21 19:15:34.096843] [p-19592] [t-5500] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2022-03-21 19:16:40.053502] [p-19592] [t-14764] [trace] App zone history is empty for the processing window on a current virtual desktop
+[2022-03-21 19:16:40.053543] [p-19592] [t-5500] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2022-03-21 19:16:40.053552] [p-19592] [t-5500] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2022-03-21 19:17:12.909408] [p-19592] [t-14764] [trace] App zone history is empty for the processing window on a current virtual desktop
+[2022-03-21 19:17:12.909437] [p-19592] [t-5500] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2022-03-21 19:17:12.909444] [p-19592] [t-5500] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2022-03-21 19:17:13.122572] [p-19592] [t-14764] [trace] App zone history is empty for the processing window on a current virtual desktop
+[2022-03-21 19:17:13.122714] [p-19592] [t-5500] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2022-03-21 19:17:13.122759] [p-19592] [t-5500] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2022-03-21 19:17:13.237170] [p-19592] [t-14764] [trace] App zone history is empty for the processing window on a current virtual desktop
+[2022-03-21 19:17:13.237191] [p-19592] [t-5500] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2022-03-21 19:17:13.237195] [p-19592] [t-5500] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2022-03-21 19:17:15.019264] [p-19592] [t-14764] [trace] App zone history is empty for the processing window on a current virtual desktop
+[2022-03-21 19:17:15.019299] [p-19592] [t-5500] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2022-03-21 19:17:15.019308] [p-19592] [t-5500] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2022-03-21 19:26:49.249043] [p-19592] [t-14764] [trace] App zone history is empty for the processing window on a current virtual desktop
+[2022-03-21 19:26:49.249098] [p-19592] [t-5500] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2022-03-21 19:26:49.249119] [p-19592] [t-5500] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2022-03-21 19:31:22.842644] [p-19592] [t-14764] [trace] App zone history is empty for the processing window on a current virtual desktop
+[2022-03-21 19:31:22.842699] [p-19592] [t-5500] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2022-03-21 19:31:22.842705] [p-19592] [t-5500] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2022-03-21 19:37:16.771694] [p-19592] [t-14764] [trace] App zone history is empty for the processing window on a current virtual desktop
+[2022-03-21 19:37:16.772014] [p-19592] [t-5500] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2022-03-21 19:37:16.772025] [p-19592] [t-5500] [trace] OnThreadExecutor::worker_thread(loop) Enter
